@@ -6,7 +6,7 @@ $name = htmlspecialchars($_POST['name']);
 $email = htmlspecialchars($_POST['email']);
 $message = htmlspecialchars($_POST['message']);
 
-$to = "ayukbrandon@gmail.com"; // YOUR EMAIL
+$to = "atemdiana10@gmail.com"; // YOUR EMAIL
 $subject = "New Portfolio Message";
 
 $body = "
